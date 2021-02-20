@@ -1,0 +1,14 @@
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.deps.json
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.dll
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.pdb
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csprojAssemblyReference.cache
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfoInputs.cache
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfo.cs
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CoreCompileInputs.cache
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CopyComplete
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.dll
+C:\git\Project API.NET Crowdfunding\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.pdb
